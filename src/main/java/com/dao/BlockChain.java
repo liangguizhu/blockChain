@@ -10,6 +10,7 @@ import java.util.Map;
 
 public class BlockChain {
     //存储区块链
+    //这是增加测试的
     private List<Map<String,Object>> chain;
     //存储区块链的交易的列表
     private List<Map<String,Object>> currentTransactions;
